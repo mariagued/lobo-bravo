@@ -8,6 +8,14 @@
 - Oferecer informações úteis como localização, descrição, imagens e dicas de visitação.
 - Valorizar a identidade e a cultura local por meio de um site moderno e responsivo.
 
+## 📸 Funcionalidades
+
+- Página inicial com destaque dos principais atrativos turísticos  
+- Navegação simples e responsiva  
+- Informações turísticas com imagens e ícones informativos  
+- Estilo visual inspirado no Material Design  
+- Otimização para dispositivos móveis  
+
 ## 🎨 Tecnologias Utilizadas
 
 - **HTML5 & CSS3** – Estrutura e estilo das páginas.
